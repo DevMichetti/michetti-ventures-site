@@ -1,2 +1,0 @@
-# michetti-ventures-site
-Website
